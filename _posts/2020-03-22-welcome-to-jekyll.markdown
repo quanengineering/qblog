@@ -3,6 +3,7 @@ layout: single
 title:  "Welcome to Jekyll!"
 date:   2020-03-22 11:41:34 -0500
 categories: jekyll update
+lang: en
 tags:
   - read time
 ---
