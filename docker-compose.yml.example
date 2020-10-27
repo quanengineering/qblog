@@ -1,0 +1,18 @@
+version: "3"
+services:
+  app:
+    image: jekyll/jekyll:4
+    command: jekyll serve --livereload --verbose
+    # command: >
+    #     bash -c "echo hello && tail -f /dev/null"
+    networks:
+      - proxy
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+networks:
+  proxy:
+    external: true
