@@ -1,7 +1,9 @@
 ## Development
 
-Use this command to start a Docker container:
+Use docker-compose.yml.example file to start a Docker container.
+
+Next, execute an interactive bash shell on the container by using this command:
 
 ```
-docker run --rm -it --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3 jekyll serve
+docker exec -it quan-blog_app_1 bash
 ```
