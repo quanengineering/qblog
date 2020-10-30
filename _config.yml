@@ -73,6 +73,11 @@ algolia:
   index_name: "qblog" # YOUR_INDEX_NAME
   search_only_api_key: "e3bb7ef99890867ae373ab63b4b6c9fc" # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
+  files_to_exclude:
+    - index.html
+    - index-en.md
+    - index-vi.md
+    - _pages/*.md
 google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
