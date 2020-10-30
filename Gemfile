@@ -16,7 +16,6 @@ gem "minimal-mistakes-jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-redirect-from"
   gem "jekyll-algolia", "~> 1.0"
   gem "jekyll-data"
 end
