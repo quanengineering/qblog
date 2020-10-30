@@ -1,0 +1,16 @@
+# main links
+main:
+  en:
+    - title: "About"
+      url: /en/about/
+    - title: "Posts"
+      url: /en/posts/
+    - title: "Copyright"
+      url: /en/copyright/
+  vi:
+    - title: "Giới thiệu"
+      url: /vi/gioi-thieu/
+    - title: "Bài viết"
+      url: /vi/bai-viet/
+    - title: "Bản quyền"
+      url: /vi/ban-quyen/
