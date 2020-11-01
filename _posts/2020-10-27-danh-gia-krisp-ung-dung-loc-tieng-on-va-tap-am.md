@@ -65,6 +65,10 @@ Từ đầu tới giây thứ 17 là lúc chưa bật Krisp. Tiếp theo, mình 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/918186976%3Fsecret_token%3Ds-96LHkaxpl9R&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-178424231" title="QBlog" target="_blank" style="color: #cccccc; text-decoration: none;">QBlog</a> · <a href="https://soundcloud.com/user-178424231/review-krisp-noise-cancelling-app/s-96LHkaxpl9R" title="review-krisp-noise-cancelling-app" target="_blank" style="color: #cccccc; text-decoration: none;">review-krisp-noise-cancelling-app</a></div>
 
-Phần thử nghiệm này còn thiếu một tình huống, là biểu diễn khả năng lọc tiếng rao khỏi tiếng người nói vào microphone (mình dự tính thu âm tiếp phần này nhưng chưa kịp thì cô bán hàng đã đi quá xa, không còn nghe tiếng nữa). Trong thực tế, mình đã gặp tình huống này nhiều lần trong 6 tháng qua và Krisp đã xử lý trường hợp này rất tốt, hoàn toàn không bị nhầm lẫn giữa giọng nói của mình và tạp âm.
+Phần thử nghiệm này còn thiếu một tình huống, là biểu diễn khả năng lọc tiếng rao khỏi tiếng người nói vào microphone (mình dự tính thu âm tiếp phần này nhưng chưa kịp thì cô bán hàng đã đi quá xa, không còn nghe tiếng nữa). Trong thực tế, mình đã gặp tình huống này nhiều lần trong 6 tháng qua và Krisp đã xử lý trường hợp này rất tốt, hoàn toàn không bị nhầm lẫn giữa giọng nói của mình và tạp âm. Tuy nhiên, theo đánh giá của một số bạn, việc nhầm lẫn này có thể xảy ra trong một số trường hợp nhất định.
 
-Nếu mọi người có câu hỏi gì thêm về Krisp, hãy để lại ở phần bình luận phía dưới.
+## Kết luận
+
+Theo cảm nhận cá nhân, dựa trên tất cả tiêu chí đã nêu, mình đánh giá Krisp được 9/10 điểm, chứ chưa thể đạt mức tuyệt đối vì đôi lúc còn nhầm lẫn, lược bỏ một phần giọng nói của chủ nhân.
+
+Nếu mọi người có câu hỏi gì thêm về Krisp, hãy để lại bình luận ở phía dưới.
