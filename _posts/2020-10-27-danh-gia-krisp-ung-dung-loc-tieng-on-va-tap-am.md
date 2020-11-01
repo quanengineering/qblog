@@ -31,6 +31,8 @@ Trên điện thoại, chỉ **iOS** của iPhone là có [phần mềm](https:/
 
 ## Cách sử dụng
 
+Krisp có cách sử dụng khá đơn giản.
+
 Để cài đặt Krisp trên Windows 10, bạn có thể làm theo [hướng dẫn này](https://help.krisp.ai/hc/en-us/articles/360013488959-How-to-install-Krisp-on-Windows-10-).
 
 Khi cài đặt thành công, ở thanh Taskbar, khu vực Notification Area, sẽ có biểu tượng của Krisp.
