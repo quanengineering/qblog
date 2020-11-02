@@ -11,9 +11,7 @@ tags:
 lang: vi
 ---
 
-Trên thị trường có nhiều phần mềm lọc tiếng ồn khỏi các ứng dụng gọi video (Microsoft Teams, Skype,...) theo thời gian thực (real-time) như Babblelabs, BlueJeans, Nvidia RTX Voice,... So với các phần mềm đó thì [Krisp](https://krisp.ai/) cho hiệu quả vượt trội hơn hẳn.
-
-*Cám ơn em Ngân đã đọc và chỉnh sửa những sai sót trong bản thảo.*
+Bài viết này chủ yếu đánh giá [Krisp](https://krisp.ai/) về chi phí, khả năng hoạt động trên các hệ điều hành khác nhau và khả năng lọc tạp âm.
 
 ## Chi phí
 
@@ -72,3 +70,5 @@ Phần thử nghiệm này còn thiếu một tình huống, là biểu diễn k
 Theo cảm nhận cá nhân, dựa trên tất cả tiêu chí đã nêu, mình đánh giá Krisp được 9/10 điểm, chứ chưa thể đạt mức tuyệt đối vì đôi lúc còn nhầm lẫn, lược bỏ một phần giọng nói của chủ nhân.
 
 Nếu mọi người có câu hỏi gì thêm về Krisp, hãy để lại bình luận ở phía dưới.
+
+*Cám ơn em Ngân, em Quân đã đọc và chỉnh sửa những sai sót trong bản thảo.*
