@@ -39,7 +39,7 @@ Khi cài đặt thành công, ở thanh Taskbar, khu vực Notification Area, s�
 
 ### Lọc âm thanh thu vào
 
-Sau khi cài đặt, Krisp sẽ thêm vào hệ thống một chiếc microphone ảo tên là Krisp Microphone. Tiếp theo, bạn chỉ cần vào ứng dụng mà bạn cần sử dụng, chọn chiếc microphone ảo này. Sau đó, bạn bật chức năng "Remove Noise" của Krisp là sử dụng được.
+Sau khi cài đặt, Krisp sẽ thêm vào hệ thống một chiếc microphone ảo tên là Krisp Microphone. Tiếp theo, bạn chỉ cần vào ứng dụng mà bạn cần sử dụng, chọn chiếc microphone ảo này và bật chức năng "Remove Noise" của Krisp là sử dụng được.
 
 Ví dụ, để thiết lập Krisp cho Skype, chỉ cần vào phần Settings và tinh chỉnh như các ảnh dưới.
 
@@ -57,18 +57,18 @@ Các bạn có thể tham khảo bước tinh chỉnh dưới đây để thiế
 
 ## Khả năng lọc tiếng ồn và tạp âm
 
-Để thử nghiệm khả năng của Krisp, mình tranh thủ lọc thử tiếng rao của người bán hàng. Cô này sử dụng loa để rao nên tiếng rao to và rõ dù ở khá xa.
+Sử dụng Krisp để lọc tiếng ồn của một cô bán hàng rong là một thí nghiệm khá thú vị mà mình đã thực hiện. Tiếng rao khá to và rõ dù ở khoảng cách xa vì cô đã dùng một chiếc loa ghi âm nội dung rao.
 
-Từ đầu tới giây thứ 17 là lúc chưa bật Krisp. Tiếp theo, mình bật chức năng lọc của Krisp (tiếng click chuột lách cách là lúc mình bật), ngay sau đó một giây, từ giây thứ 18 trở đi là không còn nghe tiếng rao nữa. Nếu quan sát đồ thị âm thanh dưới đây, mọi người có thể thấy rõ sự khác biệt này.
+Dưới đây là đồ thị âm thanh mô tả trước và sau khi mình bật Krisp. Từ đầu đến giây thứ 17 là lúc mình thu toàn bộ âm và không sử dụng Krisp để lọc nên các bạn có thể nghe thấy âm thanh khá ồn và hỗn loạn. Tuy nhiên, từ sau giây thứ 16 (có tiếng Click chuột để bật Krisp) thì tiếng rao đã được loại bỏ hoàn toàn nhờ vào tính năng lọc tiếng ồn của Krisp.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/918186976%3Fsecret_token%3Ds-96LHkaxpl9R&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-178424231" title="QBlog" target="_blank" style="color: #cccccc; text-decoration: none;">QBlog</a> · <a href="https://soundcloud.com/user-178424231/review-krisp-noise-cancelling-app/s-96LHkaxpl9R" title="review-krisp-noise-cancelling-app" target="_blank" style="color: #cccccc; text-decoration: none;">review-krisp-noise-cancelling-app</a></div>
 
-Phần thử nghiệm này còn thiếu một tình huống, là biểu diễn khả năng lọc tiếng rao khỏi tiếng người nói vào microphone (mình dự tính thu âm tiếp phần này nhưng chưa kịp thì cô bán hàng đã đi quá xa, không còn nghe tiếng nữa). Trong thực tế, mình đã gặp tình huống này nhiều lần trong 6 tháng qua và Krisp đã xử lý trường hợp này rất tốt, hoàn toàn không bị nhầm lẫn giữa giọng nói của mình và tạp âm. Tuy nhiên, theo đánh giá của một số bạn, việc nhầm lẫn này có thể xảy ra trong một số trường hợp nhất định.
+Một trong những tình huống mà mình gặp phải khá nhiều trong 6 tháng qua đó lọc tạp âm ra khỏi tiếng người nói vào Microphone. Thực tế thì mình hoàn toàn hài lòng về chất lượng xử lý âm thanh của Krisp vì Krisp không bị nhầm lẫn giữa giọng nói của mình với tạp âm. Ban đầu mình dự định sẽ biểu diễn khả năng này của Krisp nhưng thật đáng tiếc khi mình chưa kịp thu âm thì cô bán hàng rong đã đi quá xa nên không còn nghe rõ tiếng rao. Tuy nhiên, theo đánh giá của một số bạn thì việc nhầm lẫn giữa tiếng rao với tiếng người là có thể xảy ra trong một số trường hợp nhất định.
 
 ## Kết luận
 
-Theo cảm nhận cá nhân, dựa trên tất cả tiêu chí đã nêu, mình đánh giá Krisp được 9/10 điểm, chứ chưa thể đạt mức tuyệt đối vì đôi lúc còn nhầm lẫn, lược bỏ một phần giọng nói của chủ nhân.
+Cá nhân mình đánh giá Krisp dựa trên tất cả các tiêu chí vừa nêu là 9/10 và chưa thể cho trọn vẹn 10 điểm vì đôi lúc Krisp vẫn còn nhầm lẫn và lược bỏ một phần giọng nói của chủ nhân.
 
-Nếu mọi người có câu hỏi gì thêm về Krisp, hãy để lại bình luận ở phía dưới.
+Mình rất vui và sẵn sàng trả lời mọi câu hỏi về Krisp ở phần bình luận phía dưới.
 
-*Cám ơn em Ngân, em Quân đã đọc và chỉnh sửa những sai sót trong bản thảo.*
+*Cám ơn em Ngân, em Quân, em Kim đã đọc và chỉnh sửa những sai sót trong bản thảo.*
