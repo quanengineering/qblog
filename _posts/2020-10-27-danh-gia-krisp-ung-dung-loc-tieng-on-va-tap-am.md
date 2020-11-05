@@ -4,6 +4,7 @@ classes: wide-left
 title: "Đánh giá Krisp - Ứng dụng lọc tiếng ồn và tạp âm"
 excerpt: "Nhìn chung, Krisp lọc được hầu hết mọi tạp âm nên phần mềm này xứng đáng được tin dùng."
 date: 2020-10-27
+last_modified_at: 2020-11-05
 categories:
   - Kinh nghiệm
 tags:
