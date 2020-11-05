@@ -63,7 +63,7 @@ Dưới đây là đồ thị âm thanh mô tả trước và sau khi mình bậ
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/918186976%3Fsecret_token%3Ds-96LHkaxpl9R&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-178424231" title="QBlog" target="_blank" style="color: #cccccc; text-decoration: none;">QBlog</a> · <a href="https://soundcloud.com/user-178424231/review-krisp-noise-cancelling-app/s-96LHkaxpl9R" title="review-krisp-noise-cancelling-app" target="_blank" style="color: #cccccc; text-decoration: none;">review-krisp-noise-cancelling-app</a></div>
 
-Một trong những tình huống mà mình gặp phải khá nhiều trong 6 tháng qua đó lọc tạp âm ra khỏi tiếng người nói vào Microphone. Thực tế thì mình hoàn toàn hài lòng về chất lượng xử lý âm thanh của Krisp vì Krisp không bị nhầm lẫn giữa giọng nói của mình với tạp âm. Ban đầu mình dự định sẽ biểu diễn khả năng này của Krisp nhưng thật đáng tiếc khi mình chưa kịp thu âm thì cô bán hàng rong đã đi quá xa nên không còn nghe rõ tiếng rao. Tuy nhiên, theo đánh giá của một số bạn thì việc nhầm lẫn giữa tiếng rao với tiếng người là có thể xảy ra trong một số trường hợp nhất định.
+Mình hoàn toàn hài lòng về chất lượng xử lý âm thanh của Krisp vì trong đa số các trường hợp, Krisp không bị nhầm lẫn giữa giọng nói của mình với tạp âm.
 
 ## Kết luận
 
@@ -71,4 +71,4 @@ Cá nhân mình đánh giá Krisp dựa trên tất cả các tiêu chí vừa n
 
 Mình rất vui và sẵn sàng trả lời mọi câu hỏi về Krisp ở phần bình luận phía dưới.
 
-*Cám ơn em Ngân, em Quân, em Kim, bạn Châu đã đọc và chỉnh sửa những sai sót trong bản thảo.*
+*Cám ơn em Ngân, em Quân, em Kim, bạn Châu, chị Dung, em Duyệt đã đọc và chỉnh sửa những sai sót trong bản thảo.*
