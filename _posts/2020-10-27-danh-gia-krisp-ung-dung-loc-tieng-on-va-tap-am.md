@@ -35,7 +35,7 @@ Krisp có cách sử dụng khá đơn giản.
 
 Khi cài đặt thành công, ở thanh Taskbar, khu vực Notification Area, sẽ có biểu tượng của Krisp.
 
-{% include figure class="half" image_path="/assets/images/review-krisp-noise-cancelling-app-4.png" alt="Biểu tượng của Krisp ở thanh Taskbar" caption="Biểu tượng của Krisp ở thanh Taskbar" %}
+{% include figure class="half" image_path="/assets/images/review-krisp-noise-cancelling-app-1.png" alt="Biểu tượng của Krisp ở thanh Taskbar" caption="Biểu tượng của Krisp ở thanh Taskbar" %}
 
 ### Lọc âm thanh thu vào
 
@@ -43,7 +43,7 @@ Sau khi cài đặt, Krisp sẽ thêm vào hệ thống một chiếc microphone
 
 Ví dụ, để thiết lập Krisp cho Skype, chỉ cần vào phần Settings và tinh chỉnh như các ảnh dưới.
 
-{% include figure image_path="/assets/images/review-krisp-noise-cancelling-app-1.png" alt="Chọn Krisp Microphone là nguồn thu vào cho Skype" caption="Chọn Krisp Microphone là nguồn thu vào cho Skype" %}
+{% include figure image_path="/assets/images/review-krisp-noise-cancelling-app-2.png" alt="Chọn Krisp Microphone là nguồn thu vào cho Skype" caption="Chọn Krisp Microphone là nguồn thu vào cho Skype" %}
 
 {% include figure class="half" image_path="/assets/images/review-krisp-noise-cancelling-app-3.png" alt="Bật chức năng 'Remove Noise' của Krisp" caption="Bật chức năng 'Remove Noise' của Krisp" %}
 
@@ -53,7 +53,7 @@ Tương tự phần trước, Krisp sẽ thêm vào hệ thống một chiếc l
 
 Các bạn có thể tham khảo bước tinh chỉnh dưới đây để thiết lập Krisp cho Skype.
 
-{% include figure image_path="/assets/images/review-krisp-noise-cancelling-app-2.png" alt="Chọn Krisp Speaker là nguồn phát ra cho Skype" caption="Chọn Krisp Speaker là nguồn phát ra cho Skype" %}
+{% include figure image_path="/assets/images/review-krisp-noise-cancelling-app-4.png" alt="Chọn Krisp Speaker là nguồn phát ra cho Skype" caption="Chọn Krisp Speaker là nguồn phát ra cho Skype" %}
 
 ## Khả năng lọc tiếng ồn và tạp âm
 
@@ -71,4 +71,4 @@ Cá nhân mình đánh giá Krisp dựa trên tất cả các tiêu chí vừa n
 
 Mình rất vui và sẵn sàng trả lời mọi câu hỏi về Krisp ở phần bình luận phía dưới.
 
-*Cám ơn em Ngân, em Quân, em Kim đã đọc và chỉnh sửa những sai sót trong bản thảo.*
+*Cám ơn em Ngân, em Quân, em Kim, bạn Châu đã đọc và chỉnh sửa những sai sót trong bản thảo.*
