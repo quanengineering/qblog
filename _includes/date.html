@@ -1,0 +1,21 @@
+{% if page.lang == 'vi' %}
+    {{ include.date | date: "%-d" }}
+    {% assign month = include.date | date: "%-m" %}
+    {% case month %}
+            {% when '1' %}Tháng Một,
+            {% when '2' %}Tháng Hai,
+            {% when '3' %}Tháng Ba,
+            {% when '4' %}Tháng Tư,
+            {% when '5' %}Tháng Năm,
+            {% when '6' %}Tháng Sáu,
+            {% when '7' %}Tháng Bảy,
+            {% when '8' %}Tháng Tám,
+            {% when '9' %}Tháng Chín,
+            {% when '10' %}Tháng Mười,
+            {% when '11' %}Tháng Mười Một,
+            {% when '12' %}Tháng Mười Hai,
+    {% endcase %}
+    {{ include.date | date: "%Y" }}
+{% else %}
+    {{ include.date | date: "%B %-d, %Y" }}
+{% endif %}
