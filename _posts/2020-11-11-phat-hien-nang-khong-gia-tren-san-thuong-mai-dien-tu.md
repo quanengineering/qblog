@@ -2,7 +2,7 @@
 layout: single
 toc: false
 title: "Việc nâng khống giá sản phẩm trên các sàn thương mại điện tử và cách nhận biết"
-excerpt: "Sử dụng BeeCost để xem lịch sử giá của sản phẩm là cách tốt nhất hiện nay"
+excerpt: "Sử dụng BeeCost để xem lịch sử giá của sản phẩm là cách tốt nhất hiện nay."
 date: 2020-11-11
 categories:
   - Kinh nghiệm
@@ -21,11 +21,11 @@ Sau đó, bạn chỉ cần truy cập vào một trang sản phẩm bất kì, 
 
 {% include figure image_path="/assets/images/nang-khong-gia-shopee.png" alt="Lịch sử giá của ổ cứng di động Seagate Backup Plus Ultra Touch 1TB_USB-C được bán trên Shopee Mall" caption="Lịch sử giá của ổ cứng di động Seagate Backup Plus Ultra Touch 1TB_USB-C được bán trên Shopee Mall" %}
 
-Quan sát biểu đồ có thể thấy vào ngày 07/11, bốn ngày trước Ngày hội Siêu Sale 11/11, giá đã được chỉnh lên một mức cao hơn thường lệ (1.750.000 VNĐ so với 1.690.000 VNĐ) để khi áp dụng mã giảm giá ELCL1111 (giảm 7%) là còn 1.627.500 VNĐ.
+Quan sát biểu đồ có thể thấy vào ngày 07/11, bốn ngày trước Ngày hội Siêu Sale 11/11, giá đã được chỉnh lên một mức cao hơn thường lệ (1.750.000 đồng so với 1.690.000 đồng) để khi áp dụng mã giảm giá ELCL1111 (giảm 7%) là còn 1.627.500 đồng.
 
-Nếu so với mức giá 1.750.000 VNĐ thì mức giảm có vẻ nhiều hơn mã giảm tự tạo của shop (122.500 VNĐ so với 50.000 VNĐ), nhưng so với ngày thường thì mức giảm không đáng là bao (62.500 VNĐ so với 50.000 VNĐ).
+Nếu so với mức giá 1.750.000 đồng thì mức giảm có vẻ nhiều hơn mã giảm tự tạo của shop (122.500 đồng so với 50.000 đồng), nhưng so với ngày thường thì mức giảm không đáng là bao (62.500 đồng so với 50.000 đồng).
 
-Có thể thấy, trên thực tế, Shopee chỉ trợ giá 12.500 VNĐ cho sản phẩm này. Tùy vào mức chênh lệch mà bạn có thể cân nhắc xem thời điểm thích hợp nhất để mua sản phẩm.
+Có thể thấy, trên thực tế, Shopee chỉ trợ giá 12.500 đồng cho sản phẩm này. Tùy vào mức chênh lệch mà bạn có thể cân nhắc xem thời điểm thích hợp nhất để mua sản phẩm.
 
 Việc quan sát lịch sử giá tuy có phần hơi mất thời gian nhưng mình nghĩ là xứng đáng vì có thể giúp bạn mua hàng với giá hợp lý nhất.
 
