@@ -1,7 +1,7 @@
 ---
 layout: single
 toc: false
-title: "Cách mua hàng trực tuyến với mức giá tốt"
+title: "Mua hàng trực tuyến với giá tốt"
 date: 2021-02-07
 tags:
   - Công nghệ
