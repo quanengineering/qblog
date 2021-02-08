@@ -3,6 +3,7 @@ layout: single
 title: Bài viết
 permalink: /vi/bai-viet/
 lang: vi
+sitemap: false
 ---
 
 Bạn có thể đọc tất cả các bài viết trên {{ site.title }} theo:

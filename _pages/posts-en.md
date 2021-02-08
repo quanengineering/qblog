@@ -3,6 +3,7 @@ layout: single
 title: Posts
 permalink: /en/posts/
 lang: en
+sitemap: false
 ---
 
 You can browse through posts by:

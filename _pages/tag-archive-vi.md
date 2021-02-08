@@ -4,4 +4,5 @@ permalink: /vi/the/
 layout: tags
 author_profile: false
 lang: vi
+sitemap: false
 ---

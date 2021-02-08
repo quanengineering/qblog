@@ -4,4 +4,5 @@ permalink: /en/year-archive/
 layout: posts
 author_profile: false
 lang: en
+sitemap: false
 ---

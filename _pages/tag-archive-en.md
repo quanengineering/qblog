@@ -4,4 +4,5 @@ permalink: /en/tags/
 layout: tags
 author_profile: false
 lang: en
+sitemap: false
 ---
