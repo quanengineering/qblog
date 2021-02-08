@@ -3,8 +3,6 @@ layout: single
 toc: false
 title: "Cách mua hàng trực tuyến với mức giá tốt"
 date: 2021-02-07
-categories:
-  - Kinh nghiệm
 tags:
   - Công nghệ
 lang: vi
