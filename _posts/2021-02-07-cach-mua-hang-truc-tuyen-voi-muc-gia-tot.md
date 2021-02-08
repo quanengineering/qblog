@@ -2,7 +2,6 @@
 layout: single
 toc: false
 title: "Cách mua hàng trực tuyến với mức giá tốt"
-excerpt: "Ngoài việc săn mã giảm giá, kiểm tra lịch sử giá của sản phẩm cũng là cách để đảm bảo sản phẩm được mua với mức giá tốt."
 date: 2021-02-07
 categories:
   - Kinh nghiệm
