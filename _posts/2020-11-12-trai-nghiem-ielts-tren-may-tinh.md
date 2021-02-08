@@ -1,17 +1,19 @@
 ---
 layout: single
 classes: wide-left
-title: "Trải nghiệm bài thi IELTS trên máy tính tại British Council TP.HCM"
-excerpt: "Tuy có một số khúc mắc ở phần thi nghe nhưng thi IELTS trên máy tính mang lại nhiều lợi thế hơn so với thi trên giấy."
+title: "Review bài thi IELTS trên máy tính"
 date: 2020-11-12
-categories:
-  - Kinh nghiệm
+last_modified_at: 2021-02-08
 tags:
   - Ngôn ngữ
 lang: vi
 ---
 
-Bài viết này sẽ tường thuật lại toàn bộ trải nghiệm của mình với kì thi IELTS trên máy tính vừa qua vào tháng 10/2020.
+***Cập nhật tháng 01/2021***: các bạn nên tham dự buổi thi thử để nhận voucher ***giảm giá 500.000 đồng***, nếu không thì chỉ giảm 400.000 đồng.
+
+Bài viết này sẽ tường thuật lại toàn bộ trải nghiệm của mình với kì thi IELTS trên máy tính vừa qua vào tháng 10/2020. Tuy có một số khúc mắc ở phần thi nghe nhưng thi IELTS trên máy tính mang lại nhiều lợi thế hơn so với thi trên giấy.
+
+Do mình thi ở British Council (Viet Nam) nên chỉ thuật lại trải nghiệm tại đây. Mình nghĩ phần trải nghiệm ở IDP Vietnam cũng tương tự, có chăng khác nhau chủ yếu ở mức ưu đãi khi đăng kí.
 
 ## Trước khi thi
 
@@ -23,7 +25,7 @@ Việc đăng kí rất đơn giản, chỉ cần điền vào [form này](https
 
 #### Cơ sở vật chất
 
-Tại TP.HCM có 2 địa điểm tổ chức thi IELTS trên máy:
+Tại TP.HCM, British Council sắp xếp 2 địa điểm tổ chức thi IELTS trên máy:
 
 * Viettel Tower (sử dụng máy tính để bàn - desktop)
 * UAC (sử dụng máy tính xách tay - laptop)
@@ -38,7 +40,7 @@ UAC trang bị laptop Dell Inspiron 3793 có:
 * Sử dụng mạng dây nên không lo bị mất kết nối giữa chừng như mạng không dây Wi-Fi.
 * **Bàn phím với hành trình phím rất nông** nên khi gõ không cảm nhận được phím. Mình phải mất vài phút để làm quen với bàn phím này nên có đôi chút thất vọng.
 
-Yếu tố duy nhất để quyết định thi trên laptop hay desktop chính là bàn phím nên mọi người hãy đến thi thử ít nhất một lần để quyết định chuyện này. Nếu là mình, mình sẽ không bao giờ chọn thi trên laptop nữa, trừ khi UAC có trang bị bàn phím gắn ngoài - mặc dù có phần ồn hơn nhưng trải nghiệm sẽ tốt hơn.
+Mình nghĩ tiêu chí đầu tiên để quyết định thi trên laptop hay desktop chính là bàn phím nên các bạn hãy đến thi thử ít nhất một lần để quyết định chuyện này. Nếu là mình, mình sẽ không bao giờ chọn thi trên laptop nữa, trừ khi UAC có trang bị bàn phím gắn ngoài.
 
 #### Phần mềm làm bài
 
@@ -56,7 +58,7 @@ Do thi trên máy cam kết trả kết quả khá sớm, chỉ 5 ngày, nên ph
 
 ### Nộp lệ phí
 
-Lệ phí thi là hơn bốn triệu đồng (chính xác là 4.750.000 đồng, đã bao gồm VAT 10%), có thể thanh toán qua hình thức chuyển khoản hoặc nộp trực tiếp tại văn phòng của British Council tại Viettel Tower. Mình nộp trực tiếp thì thấy có xuất hóa đơn đỏ.
+Lệ phí thi là 4.750.000 đồng, đã bao gồm VAT 10%, có thể thanh toán qua hình thức chuyển khoản hoặc nộp trực tiếp tại văn phòng của British Council tại Viettel Tower. Mình nộp trực tiếp thì thấy có xuất hóa đơn đỏ.
 
 ### Nhận quà tặng
 
@@ -88,7 +90,7 @@ Phần thi máy diễn ra cả ngày với buổi sáng là 3 bài thi nghe, đ�
 
 ### Làm thủ tục
 
-Mình tới điểm thi theo lịch hẹn là đúng 8h sáng. Do đang mùa dịch COVID nên phòng thi khá vắng vẻ do hoạt động một nửa công suất. Tổng cộng chỉ có 12 bạn thi cùng với mình ngày hôm đó.
+Mình tới điểm thi theo lịch hẹn là đúng 8h sáng. Do đang mùa dịch COVID nên phòng thi khá vắng vẻ do hoạt động một nửa công suất. Tổng cộng chỉ có 12 bạn thi chung với mình vào ngày hôm đó.
 
 **Lưu ý**: Đăng kí bằng loại giấy tờ gì thì khi làm thủ tục phải xuất trình đúng loại giấy tờ đó. Nếu lúc đăng kí sử dụng chứng minh nhân dân mà ngày thi sử dụng hộ chiếu thì không được chấp nhận.
 
@@ -110,7 +112,7 @@ Bạn sẽ không được chạm tay vào máy cho đến khi giám thị cho p
 
 Trước mỗi phần đều có khoảng 30 giây để đọc đề, vừa đủ để sử dụng công cụ highlight tô màu các từ khóa. Sau mỗi phần thí sinh lại có một phút để kiểm tra, vừa đủ để nhìn ghi chú trên giấy và chọn đáp án các câu Multiple choice của phần khó như phần 3, nhưng không đủ để gõ lại tất cả đáp án, nên tốt nhất các câu điền từ các bạn nên gõ trực tiếp trên máy.
 
-Nhìn chung, thi nghe trên máy sẽ khó ghi chú hơn so với thi giấy (thi trên máy cũng có chức năng chú thích nhưng thực tế rất vô dụng do mất nhiều thao tác để tạo ghi chú) nên mọi người hãy luyện thao tác cho phần này thật kĩ.
+Nhìn chung, thi nghe trên máy sẽ khó ghi chú hơn so với thi giấy (thi trên máy cũng có chức năng chú thích nhưng thực tế rất vô dụng do mất nhiều thao tác để tạo ghi chú) nên các bạn hãy luyện thao tác cho phần này thật kĩ.
 
 ### Thi đọc
 
@@ -126,7 +128,7 @@ Khuyết điểm duy nhất là không ghi chú được đoạn nào cung cấp
 
 Có thể nói đây là phần thi được hưởng lợi nhất từ việc thi máy. Hai lợi ích lớn nhất mình tận dụng được:
 * Không còn phải lo ước lượng xem mình viết có đủ số từ tối thiểu hay không do có công cụ word count để đếm số từ.
-* Sắp xếp bài viết cân xứng và đầy đủ hơn vì mình có thể viết mở bài, kết bài, khung sườn trước và chèn chi tiết thân bài vào sau. Cách làm như vậy sẽ tránh tình trạng viết từ trên xuống dưới như khi thi giấy khiến các phần cuối bị cắt giảm do sắp hết giờ.
+* Sắp xếp bài viết cân xứng và đầy đủ hơn vì mình có thể viết mở bài, kết bài, khung sườn trước và chèn chi tiết thân bài vào sau. Cách làm như vậy sẽ tránh tình trạng viết theo thứ tự từ trên xuống dưới như khi thi giấy khiến các phần cuối bị cắt giảm do sắp hết giờ.
 
 Điểm trừ ở phần thi này là trải nghiệm với bàn phím của laptop Dell Inspiron quá tệ. Nếu được sử dụng bàn phím tốt hơn, mình có thể tăng tốc độ hoàn thành bài viết.
 
@@ -144,8 +146,8 @@ Kết quả của mỗi thí sinh sẽ được hiển thị trong tài khoản 
 
 ### Làm khảo sát
 
-Mặc dù sau khi kết thúc phần thi nói, British Council đã đề nghị thí sinh ở lại điền khảo sát nhận xét về trải nghiệm thi nhưng sau khi nhận kết quả khoảng một tuần, mình có nhận được một bảng khảo sát tương tự. Bảng khảo sát này là cơ hội tốt để nói lên những điều chưa hài lòng nên mình đã bỏ thời gian để hoàn thành.
+Lúc kết thúc phần thi nói và cả sau khi nhận kết quả khoảng một tuần, British Council có đề nghị thí sinh điền khảo sát nhận xét về trải nghiệm thi. Đây là cơ hội tốt để nói lên những điều chưa hài lòng nên các bạn nhớ tham gia.
 
 ## Tổng kết
 
-Trải nghiệm thi IELTS trên máy tính nhìn chung rất tốt tuy có vài khúc mắc ở phần thi nghe. Để tận dụng tối đa lợi thế của việc thi máy, mọi người có thể xem xét thi ở các địa điểm có sử dụng bàn phím của máy tính để bàn và luyện tập thao tác ghi chú cho phần thi nghe kĩ lưỡng hơn.
+Trải nghiệm thi IELTS trên máy tính nhìn chung rất tốt tuy có vài khúc mắc ở phần thi nghe. Để tận dụng tối đa lợi thế của việc thi máy, các bạn có thể xem xét thi ở các địa điểm có sử dụng bàn phím của máy tính để bàn và luyện tập thao tác ghi chú cho phần thi nghe kĩ lưỡng hơn.
