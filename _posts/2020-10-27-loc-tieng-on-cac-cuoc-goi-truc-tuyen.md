@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide-left
-title: "Cách lọc tiếng ồn cho các cuộc gọi trực tuyến"
+title: "Lọc tiếng ồn cho các cuộc gọi trực tuyến"
 date: 2020-10-27
 last_modified_at: 2021-02-08
 tags:
