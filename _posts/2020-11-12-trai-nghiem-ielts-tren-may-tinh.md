@@ -3,7 +3,7 @@ layout: single
 classes: wide-left
 title: "Review bài thi IELTS trên máy tính"
 date: 2020-11-12
-last_modified_at: 2021-02-08
+last_modified_at: 2021-02-11
 tags:
   - Ngôn ngữ
 lang: vi
@@ -110,9 +110,11 @@ Giữa mỗi phần thi có thể tranh thủ nghỉ được 2 phút khi chờ 
 
 Bạn sẽ không được chạm tay vào máy cho đến khi giám thị cho phép nhập thông tin đăng nhập nên sẽ không có cơ hội làm quen bàn phím. Do đó, trong phần 1 bạn nên sử dụng bút chì để ghi các câu đánh vần tên và số điện thoại. Mình đã bị lúng túng và có lẽ đã gõ sót chữ do không ghi chú mà làm trực tiếp trên máy.
 
-Trước mỗi phần đều có khoảng 30 giây để đọc đề, vừa đủ để sử dụng công cụ highlight tô màu các từ khóa. Sau mỗi phần thí sinh lại có một phút để kiểm tra, vừa đủ để nhìn ghi chú trên giấy và chọn đáp án các câu Multiple choice của phần khó như phần 3, nhưng không đủ để gõ lại tất cả đáp án, nên tốt nhất các câu điền từ các bạn nên gõ trực tiếp trên máy.
+Trước mỗi phần đều có khoảng 30 giây để đọc đề, vừa đủ để sử dụng công cụ highlight tô màu các từ khóa (các câu Multiple choice các bạn đừng highlight các đáp án - sẽ bị rối; các bạn nên tập trung nghe hiểu thay vì nghe kiểu bắt keyword). Sau mỗi phần thí sinh lại có một phút để kiểm tra, vừa đủ để nhìn ghi chú trên giấy và chọn đáp án các câu Multiple choice của phần khó như phần 3, nhưng không đủ để gõ lại tất cả đáp án, nên tốt nhất các câu điền từ các bạn nên gõ trực tiếp trên máy.
 
-Nhìn chung, thi nghe trên máy sẽ khó ghi chú hơn so với thi giấy (thi trên máy cũng có chức năng chú thích nhưng thực tế rất vô dụng do mất nhiều thao tác để tạo ghi chú) nên các bạn hãy luyện thao tác cho phần này thật kĩ.
+***Cập nhật tháng 02/2021***: bạn [Trinh](https://www.linkedin.com/in/nguyen-trinh-187854153/), vừa đạt 8.0 phần thi Listening, có chia sẻ lại rằng lúc làm bài bạn ấy không sử dụng ghi chú hoặc highlight keyword, chỉ đơn thuần đọc câu hỏi để chuẩn bị và đặt tay lên phím gõ câu trả lời. Bạn ấy cũng làm theo hiệu lệnh của bài thi, không cố tình nhảy trước sang part mới mà bỏ qua công đoạn 1 phút kiểm tra lại câu trả lời ở part cũ.
+
+Nhìn chung, thi nghe trên máy sẽ khó ghi chú hơn so với thi giấy (thi trên máy cũng có chức năng chú thích nhưng thực tế rất vô dụng do mất nhiều thao tác để tạo ghi chú) nên các bạn hãy luyện thao tác cho phần này thật kĩ. Các bạn nên luyện tập để kĩ năng làm bài cũng như năng lực ngôn ngữ đạt tới mức như bạn [Trinh](https://www.linkedin.com/in/nguyen-trinh-187854153/) - không cần sử dụng các công cụ hỗ trợ - là ổn.
 
 ### Thi đọc
 
