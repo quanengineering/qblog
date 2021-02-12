@@ -12,7 +12,7 @@ lang: vi
 
 Đối với mình, từ vựng được ghi chú hiệu quả khi chúng được lưu trữ kèm theo ngữ cảnh đầy đủ.
 
-Thuở ban đầu, mình thường tận dụng chức năng comment của Microsoft Word để thực hiện việc này. Đây là ảnh chụp một trang bài đọc trong quyển [DK Eyewitness Books: Africa](https://www.dk.com/us/book/9780756657857-dk-eyewitness-books-africa/) mà mình cùng anh Khánh đã chú thích từ vựng.
+Thuở ban đầu, mình thường tận dụng chức năng comment của Microsoft Word để thực hiện việc này. Đây là ảnh chụp một trang bài đọc trong quyển [DK Eyewitness Books: Africa](https://www.dk.com/us/book/9780756657857-dk-eyewitness-books-africa/) mà mình cùng [anh Khánh](https://www.khanhtran.xyz/) đã chú thích từ vựng.
 
 {% include figure image_path="/assets/images/langnote-1.png" alt="Chức năng comment của Microsoft Word được tận dụng để ghi chú từ vựng trong ngữ cảnh" caption="Vào khoảng thời gian 2015 - 2016, mình thường tận dụng chức năng comment của Microsoft Word để ghi chú từ vựng trong ngữ cảnh" %}
 
