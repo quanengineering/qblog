@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide-left
 title: "Review bài thi IELTS trên máy tính"
 date: 2020-11-12
 last_modified_at: 2021-02-11
