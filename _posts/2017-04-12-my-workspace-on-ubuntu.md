@@ -32,6 +32,12 @@ The next step is to set the Dock to the center. To do that, I have to use this c
 $ gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 ```
 
+## Adjust font size
+
+Texts on a small screen are difficult for me to read, so I have to increase the font size. To do that, you may use the Fractional Scaling feature, but from my experience, this feature is still having [issues](https://www.reddit.com/r/Ubuntu/comments/givgre/ubuntu_2004_performance_problem_when_enable/), the most critical of which is the poor performance when rendering videos. It is the reason why I have to use the Universal Access feature to turn on Large Text.
+
+After enabling the Large Text, I continue to install the Gnome Tweaks (`sudo apt install gnome-tweaks`), then go to Tweaks → Fonts → Scaling Factor and change the scaling value.
+
 ## Install Miscellaneous Tools
 * [Chrome](https://www.google.com/chrome/)
 * [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/download)
