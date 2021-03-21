@@ -32,10 +32,15 @@ The next step is to set the Dock to the center. To do that, I have to use this c
 $ gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 ```
 
-## Install Web Browsers
+## Install Miscellaneous Tools
 * [Chrome](https://www.google.com/chrome/)
 * [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/download)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [KeePass](https://sourceforge.net/p/keepass/discussion/329220/thread/17d1bd26/)
+* [Dropbox](https://www.dropbox.com/install)
+* [Flameshot](https://github.com/flameshot-org/flameshot/releases)
+* [Vietnamese Input](https://github.com/BambooEngine/ibus-bamboo)
+* [NetSpeed](https://ubuntuhandbook.org/index.php/2020/06/download-upload-speed-ubuntu-20-04-panel/)
 
 ## Install Communication Tools
 * [Skype](https://www.skype.com/en/get-skype/)
@@ -54,10 +59,3 @@ $ gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 * [mkcert](https://github.com/FiloSottile/mkcert)
 * [Jetbrains IDEs](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox)
 * [VS Code](https://code.visualstudio.com/)
-
-## Install Miscellaneous Tools
-* [KeePass](https://sourceforge.net/p/keepass/discussion/329220/thread/17d1bd26/)
-* [Dropbox](https://www.dropbox.com/install)
-* [Flameshot](https://github.com/flameshot-org/flameshot/releases)
-* [Vietnamese Input](https://github.com/BambooEngine/ibus-bamboo)
-* [NetSpeed](https://ubuntuhandbook.org/index.php/2020/06/download-upload-speed-ubuntu-20-04-panel/)
