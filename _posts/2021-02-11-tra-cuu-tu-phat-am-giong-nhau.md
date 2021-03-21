@@ -9,10 +9,9 @@ tags:
 lang: vi
 ---
 
-Trong tiếng Anh, có một số từ có cách phát âm (pronunciation) tương tự nhau, thậm là giống nhau hoàn toàn, mặc dù mặt chữ (spelling) và nghĩa (meaning) khác nhau.
+Trong tiếng Anh, có một số từ có cách phát âm (pronunciation) tương tự nhau, thậm chí là giống nhau hoàn toàn, mặc dù mặt chữ (spelling) và nghĩa (meaning) khác nhau.
 
-Khi gặp những từ đó, mình luôn ngờ ngợ vì cảm giác nó giống từ nào đó đã từng học rồi. Để giải quyết tình trạng mơ hồ này, mình đã dành hai tuần để viết Similar-sounding Words - tiện ích mở rộng (extension) cho trình duyệt Chrome. Các bạn có thể sử dụng [link này](https://chrome.google.com/webstore/detail/similar-sounding-words/hobghciacmpkhkpaidahlcmedkppkbkg
-) để cài đặt.
+Khi gặp các từ đó, mình luôn ngờ ngợ vì cảm giác nó giống từ nào đó đã từng học rồi. Mình có thử sử dụng các [danh sách có sẵn](https://www.home-speech-home.com/minimal-pairs.html) để tra cứu nhưng gặp khó khăn vì không liệt kê đầy đủ. Để có công cụ tra cứu tốt nhất, mình đã dành hai tuần để viết Similar-sounding Words - tiện ích mở rộng (extension) cho trình duyệt Chrome. Các bạn có thể sử dụng [link này](https://chrome.google.com/webstore/detail/similar-sounding-words/hobghciacmpkhkpaidahlcmedkppkbkg) để cài đặt.
 
 Tiện ích này sẽ giúp từ điển [Oxford Advanced Learner](https://www.oxfordlearnersdictionaries.com/definition/english/) hiển thị danh sách các từ có cách phát âm giống hệt với từ đang tra (thuật ngữ chuyên ngành gọi là homophones) và các từ phát âm gần giống từ đang tra, chỉ khác nhau đúng một âm (minimal pairs).
 
