@@ -8,11 +8,11 @@ tags:
 lang: en
 ---
 
-Here are things I do after installing Ubuntu 20.04 (alongside my existing Windows 10).
+Here are things I do after installing Ubuntu 20.04.
 
 ## Fix time conflict
 
-Ubuntu sets the hardware clock (CMOS clock, the BIOS time) to UTC while Windows is local time. It is the reason why a time conflict was caused when I switch between the two operating systems.
+The installation of Ubuntu alongside an existing Windows 10 causes a time conflict when switching between these two operating systems. It is because Ubuntu sets the hardware clock (CMOS clock, the BIOS time) to UTC while Windows is local time.
 
 I always use this command to force the Ubuntu to use the local time.
 
