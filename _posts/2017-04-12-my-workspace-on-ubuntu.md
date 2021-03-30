@@ -63,5 +63,6 @@ After enabling the Large Text, I continue to install the Gnome Tweaks (`sudo apt
 * [Postman](https://speedysense.com/install-postman-on-ubuntu-20-04/)
 * [htop](https://htop.dev/downloads.html)
 * [mkcert](https://github.com/FiloSottile/mkcert)
+* [Node Version Manager](https://github.com/nvm-sh/nvm)
 * [Jetbrains IDEs](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox)
 * [VS Code](https://code.visualstudio.com/)
