@@ -78,9 +78,9 @@ curl https://pyenv.run | bash
 
 2. Add these lines to `.zshrc`:
 ```
-export PYENV_ROOT="$HOME/.pyenv" 
-export PATH="$PYENV_ROOT/bin:$PATH" 
-eval "$(pyenv init -)"
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
 eval "$(pyenv virtualenv-init -)"
 ```
 
@@ -90,6 +90,12 @@ You can use pip3 of the Xcode command line tools to install pipenv:
 
 ```
 pip3 install --user pipenv
+```
+
+Then add this line to `.zshrc`:
+
+```
+export PATH="/Users/your-username/Library/Python/3.8/bin:$PATH"
 ```
 
 To upgrade pipenv at any time:
