@@ -129,3 +129,29 @@ brew install openssl readline sqlite3 xz zlib
 ```
 pyenv install --patch 3.6.14 < <(curl -sSL https://github.com/python/cpython/commit/8ea6353.patch\?full_index\=1)
 ```
+
+## Tips
+
+### Install packages under x86_64 architecture
+
+For example, install `pyicu`:
+
+1. run a copy of Terminal under Rosetta 2, then force Brew run with x86_64 architecture:
+```
+eval $(/usr/local/bin/brew shellenv)
+```
+
+2. install libicu:
+```
+brew install pkg-config icu4c
+```
+
+3. temporarily prepend PATH according to the information provided by `brew info icu4c`:
+```
+PATH="/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:$PATH"
+```
+
+4. install `pyicu`:
+```
+pip3 install pyicu
+```
