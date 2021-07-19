@@ -206,3 +206,9 @@ PATH="/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:$PATH"
 ```
 pip3 install pyicu
 ```
+
+### Generate public/private RSA key pair
+
+```
+ssh-keygen -t rsa
+```
