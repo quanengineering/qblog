@@ -83,13 +83,20 @@ Steps to install pyenv on Mac M1:
 curl https://pyenv.run | bash
 ```
 
-2. Add these lines to `.zshrc`:
+2. Add pyenv executable to PATH by adding the following to `~/.profile` and `~/.zprofile`:
 ```
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init --path)"
+```
+
+3. Load pyenv into the shell by adding the following to `~/.zshrc`:
+```
+eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 ```
+
+Make sure to restart your entire logon session for changes to profile files to take effect.
 
 ### pipx
 
