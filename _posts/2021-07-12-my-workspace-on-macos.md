@@ -167,6 +167,14 @@ pyenv install --patch 3.6.14 < <(curl -sSL https://github.com/python/cpython/com
 
 ## Tips
 
+### Install `grpcio`
+
+If you get errors, please refer some workarounds in [this guide](https://github.com/grpc/grpc/issues/24677), for example:
+
+```
+GRPC_PYTHON_BUILD_SYSTEM_ZLIB=true pip install grpcio
+```
+
 ### Install `pyicu` under x86_64 architecture
 
 1. run a copy of Terminal under Rosetta 2, then force Brew run with x86_64 architecture:
