@@ -167,6 +167,16 @@ pyenv install --patch 3.6.14 < <(curl -sSL https://github.com/python/cpython/com
 
 ## Tips
 
+### Install `psycopg2-binary`
+
+Follow [this workaround](https://github.com/psycopg/psycopg2/issues/1200#issuecomment-776159466):
+
+```
+brew install postgresql
+
+LDFLAGS="-L/opt/homebrew/opt/openssl@1.1/lib" CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include" PKG_CONFIG_PATH="/opt/homebrew/opt/openssl@1.1/lib/pkgconfig" pip install psycopg2-binary
+```
+
 ### Install `grpcio`
 
 If you get errors, please refer some workarounds in [this guide](https://github.com/grpc/grpc/issues/24677), for example:
@@ -175,7 +185,7 @@ If you get errors, please refer some workarounds in [this guide](https://github.
 GRPC_PYTHON_BUILD_SYSTEM_ZLIB=true pip install grpcio
 ```
 
-### Install `pyicu` under x86_64 architecture
+### Install `pyicu`
 
 1. run a copy of Terminal under Rosetta 2, then force Brew run with x86_64 architecture:
 ```
