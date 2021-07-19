@@ -91,24 +91,40 @@ eval "$(pyenv init --path)"
 eval "$(pyenv virtualenv-init -)"
 ```
 
+### pipx
+
+1. Use pyenv to install the latest version of Python, then use it to install pipx
+```
+pyenv install 3.9.6
+pyenv global 3.9.6
+pip install --user pipx
+```
+
+2. declare installation directory in `.zshrc`:
+```
+export PATH="/Users/your-username/.local/bin:$PATH"
+```
+
+To upgrade pipx at any time:
+
+```
+pip install --user -U pipx
+```
+
 ### Pipenv
 
-You can use pip3 of the Xcode command line tools to install pipenv:
+Use pipx to install:
 
 ```
-pip3 install --user pipenv
+pipx install pipenv
 ```
 
-Then add this line to `.zshrc`:
+### Poetry
+
+Use pipx to install:
 
 ```
-export PATH="/Users/your-username/Library/Python/3.8/bin:$PATH"
-```
-
-To upgrade pipenv at any time:
-
-```
-pip3 install --user --upgrade pipenv
+pipx install poetry
 ```
 
 ### Python
