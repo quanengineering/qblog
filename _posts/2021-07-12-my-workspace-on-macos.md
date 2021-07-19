@@ -128,10 +128,10 @@ pipx install pipenv
 
 ### Poetry
 
-Use pipx to install:
+Use pyenv to switch between Python versions and use pip to install:
 
 ```
-pipx install poetry
+pip install poetry
 ```
 
 ### Python
