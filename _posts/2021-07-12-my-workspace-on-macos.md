@@ -167,9 +167,7 @@ pyenv install --patch 3.6.14 < <(curl -sSL https://github.com/python/cpython/com
 
 ## Tips
 
-### Install packages under x86_64 architecture
-
-For example, install `pyicu`:
+### Install `pyicu` under x86_64 architecture
 
 1. run a copy of Terminal under Rosetta 2, then force Brew run with x86_64 architecture:
 ```
