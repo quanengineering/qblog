@@ -212,3 +212,9 @@ pip3 install pyicu
 ```
 ssh-keygen -t rsa
 ```
+
+### Set VSCode as Git default editor
+
+```
+git config --global core.editor "code --wait"
+```
