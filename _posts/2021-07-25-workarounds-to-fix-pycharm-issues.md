@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Workarounds to fix PyCharm issues"
-date: 2021-07-12
-last_modified_at: 2021-07-13
+date: 2021-07-25
+last_modified_at: 2021-07-25
 tags:
   - PyCharm
 lang: en
