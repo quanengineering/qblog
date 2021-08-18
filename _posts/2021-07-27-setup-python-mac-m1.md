@@ -172,6 +172,26 @@ CFLAGS="-I$(brew --prefix bzip2)/include"
 LDFLAGS="-L$(brew --prefix zlib)/lib -L$(brew --prefix bzip2)/lib"
 
 
+## Natively on M1 (ARM64)
+
+Explain about anaconda and miniforge
+https://hendrik-erz.de/post/update-setting-up-python-numpy-and-pytorch-natively-on-apple-m1
+
+install brew arm64:
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install miniforge
+
+conda init zsh
+
+conda create --name your-env-name python=3.9
+
+conda activate your-env-name
+
+conda install <package-name>
+
+conda env export > environment.yml
 
 ## References
 
@@ -179,3 +199,4 @@ LDFLAGS="-L$(brew --prefix zlib)/lib -L$(brew --prefix bzip2)/lib"
 
 
 Note: for Mac M1: to avoid get stuck when import database => use this image https://hub.docker.com/r/gangstead/postgis to create postgres instance
+
