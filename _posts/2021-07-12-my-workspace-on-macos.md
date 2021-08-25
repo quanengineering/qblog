@@ -49,10 +49,24 @@ touch ~/.zshrc
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 
-4. install Nodejs v15+ (works on arch64 for Mac M1)
+If it stops in the middle, you should press `q` to continue.
+
+4. Add the following to `~/.zprofile`:
+
 ```
-nvm install v15
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 ```
+
+5. install Nodejs v14 under Rosetta 2 (x86_64 architecture)
+
+Run a copy of Terminal under Rosetta 2, then type:
+
+```
+nvm install v14
+```
+
+Please note that all commands, e.g. `npm install`, should also be run under Rosetta 2.
 
 ### Homebrew
 
@@ -62,7 +76,7 @@ nvm install v15
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-*Install a copy of Homebrew running under under Rosetta 2 (x86_64 architecture)* (it can coexist with Homebrew Mac M1 version):
+*Install a copy of Homebrew running under Rosetta 2 (x86_64 architecture)* (it can coexist with Homebrew Mac M1 version):
 
 1. run the installation under Rosetta 2
 ```
