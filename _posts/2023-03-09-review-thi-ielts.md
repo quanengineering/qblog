@@ -20,6 +20,8 @@ không thì chỉ giảm 300.000 đồng.
 
 Chính nhờ những điều đó nên lần này mình không bị ah uhm, không bị ngập ngừng khi nói. Tuy nhiên, topic vocab và pronunciation vẫn chưa hoàn thiện, và vẫn chia sai thì quá khứ. Tổng kết mình được 6.0.
 
+Cả ba part đều giống trong bộ forecast. Part 1: where are you living? geography & maps (có học môn này không? có giỏi đọc maps không?), Part 2: a person who good at dressing, Part 3: fashion (có câu hỏi phát sinh ngoài forecast: at what age do you think people don't care about fashion trend?)
+
 ### Reading
 
 Tốc độ làm bài kì này nhanh hơn lần trước, chỉ trong nửa tiếng mình đã xong part 1 và 2 (4 passage), nửa tiếng còn lại mình tập trung làm part 3 (về bicycle history - không phải [bài này](https://mini-ielts.com/224/reading/the-history-of-bicycles) - bài mình thi đề cập bicycle từ lúc còn là hình vẽ của Egypt) nên chỉ sai 1 câu. Tổng cộng mình được 8.5.
@@ -42,3 +44,5 @@ Task 2 gặp đề về sports: "Some people say that the Olympic Games no longe
 * [https://www.afarinesh.org/ielts-test-in-iran-january-2021-general-training/](https://www.afarinesh.org/ielts-test-in-iran-january-2021-general-training/)
 
 Tổng cộng mình được 6.5, giống lần thi trước.
+
+Đợt này mình chủ yếu thi chung với các em lớp 12. Mình có hỏi được đề writing của một em dưới 18 tuổi (cổ tay đeo băng xanh) thì đề khá dễ: Nowadays in many countries household waste e.g. food packaging is increasing day by day. What are the causes for that? How can this problem be solved? (đề cũ), một em khác đủ 18 tuổi (sinh nhật trước ngày thi một tháng) thì khó hơn: Some think that ambition is a good quality. Is it important to be ambitious? Is it a positive or negative characteristic? (lại là đề cũ)
