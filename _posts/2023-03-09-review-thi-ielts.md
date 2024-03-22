@@ -46,3 +46,11 @@ Task 2 gặp đề về sports: "Some people say that the Olympic Games no longe
 Tổng cộng mình được 6.5, giống lần thi trước.
 
 Đợt này mình chủ yếu thi chung với các em lớp 12. Mình có hỏi được đề writing của một em dưới 18 tuổi (cổ tay đeo băng xanh) thì đề khá dễ: Nowadays in many countries household waste e.g. food packaging is increasing day by day. What are the causes for that? How can this problem be solved? (đề cũ), một em khác đủ 18 tuổi (sinh nhật trước ngày thi một tháng) thì khó hơn: Some think that ambition is a good quality. Is it important to be ambitious? Is it a positive or negative characteristic? (lại là đề cũ)
+
+### Result
+
+[Score breakdown]({% post_url 2023-03-04-ielts-score-breakdown %}) của mình ở lần thi này:
+
+{% include figure image_path="/assets/images/ielts-score-breakdown-3.png" alt="British Council gửi email chứa chi tiết điểm của các tiêu chí" caption="British Council gửi email chứa chi tiết điểm của các tiêu chí" %}
+
+So với [lần thi trước]({% post_url 2023-03-04-ielts-score-breakdown %}) thì phần cải thiện nhiều nhất là speaking, phần writing tiêu chí lexical resource bị suy giảm, có lẽ do topic lần này không quen thuộc lắm so với [lần trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}).
