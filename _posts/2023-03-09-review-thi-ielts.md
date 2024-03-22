@@ -7,7 +7,7 @@ tags:
 lang: vi
 ---
 
-Tương tự như [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}), mình tiếp tục chọn thi máy tính ở British Council. Mình sẽ chỉ review một số điểm khác biệt so với lần thi trước.
+Tương tự như [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}), mình tiếp tục chọn thi máy tính ở British Council. Mình sẽ chỉ review một số điểm khác biệt so với [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}).
 
 ***Cập nhật tháng 03/2023***: các bạn nên tham dự buổi thi thử để nhận voucher ***giảm giá 500.000 đồng***, nếu
 không thì chỉ giảm 300.000 đồng.
@@ -24,11 +24,11 @@ Cả ba part đều giống trong bộ forecast. Part 1: where are you living? g
 
 ### Reading
 
-Tốc độ làm bài kì này nhanh hơn lần trước, chỉ trong nửa tiếng mình đã xong part 1 và 2 (4 passage), nửa tiếng còn lại mình tập trung làm part 3 (về bicycle history - không phải [bài này](https://mini-ielts.com/224/reading/the-history-of-bicycles) - bài mình thi đề cập bicycle từ lúc còn là hình vẽ của Egypt) nên chỉ sai 1 câu. Tổng cộng mình được 8.5.
+Tốc độ làm bài kì này nhanh hơn [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}), chỉ trong nửa tiếng mình đã xong part 1 và 2 (4 passage), nửa tiếng còn lại mình tập trung làm part 3 (về bicycle history - không phải [bài này](https://mini-ielts.com/224/reading/the-history-of-bicycles) - bài mình thi đề cập bicycle từ lúc còn là hình vẽ của Egypt) nên chỉ sai 1 câu. Tổng cộng mình được 8.5.
 
 ### Listening
 
-Part 1 mình viết toàn bộ answer ra giấy rồi điền vào rất nhanh, chắc có lẽ do bàn phím desktop (mình đổi sang địa điểm khác sử dụng máy tính để bàn (desktop) để thi, nên làm quen với bàn phím không còn là vấn đề), tuy nhiên vẫn bị sai phần đánh vần tên và số điện thoại. Part 4 là lecture về Cyrus the Great. Tổng cộng mình được 7.0, cao hơn lần trước 1.0.
+Part 1 mình viết toàn bộ answer ra giấy rồi điền vào rất nhanh, chắc có lẽ do bàn phím desktop (mình đổi sang địa điểm khác sử dụng máy tính để bàn (desktop) để thi, nên làm quen với bàn phím không còn là vấn đề), tuy nhiên vẫn bị sai phần đánh vần tên và số điện thoại. Part 4 là lecture về Cyrus the Great. Tổng cộng mình được 7.0, cao hơn [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}) 1.0.
 
 ### Writing
 
@@ -43,7 +43,7 @@ Task 2 gặp đề về sports: "Some people say that the Olympic Games no longe
 * [https://www.ielts-practice.org/some-people-believe-that-olympic-games-do-not-belong-to-the-21st-century-anymore-band-7-ielts-essay-sample/](https://www.ielts-practice.org/some-people-believe-that-olympic-games-do-not-belong-to-the-21st-century-anymore-band-7-ielts-essay-sample/)
 * [https://www.afarinesh.org/ielts-test-in-iran-january-2021-general-training/](https://www.afarinesh.org/ielts-test-in-iran-january-2021-general-training/)
 
-Tổng cộng mình được 6.5, giống lần thi trước.
+Tổng cộng mình được 6.5, giống [lần thi trước]({% post_url 2020-11-12-trai-nghiem-ielts-tren-may-tinh %}).
 
 Đợt này mình chủ yếu thi chung với các em lớp 12. Mình có hỏi được đề writing của một em dưới 18 tuổi (cổ tay đeo băng xanh) thì đề khá dễ: Nowadays in many countries household waste e.g. food packaging is increasing day by day. What are the causes for that? How can this problem be solved? (đề cũ), một em khác đủ 18 tuổi (sinh nhật trước ngày thi một tháng) thì khó hơn: Some think that ambition is a good quality. Is it important to be ambitious? Is it a positive or negative characteristic? (lại là đề cũ)
 
